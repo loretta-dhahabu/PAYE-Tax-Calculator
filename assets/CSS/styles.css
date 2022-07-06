@@ -9,6 +9,14 @@ body, .banner{
     height: 100vh;
     width: auto;
 }
+.heading{
+  text-align: center;
+  padding: .5em;
+  background-color: lightgrey;
+  width: 70%;
+  margin: .5em 3em .5em 3em ;
+  border-radius: 5em;
+}
 
 main{
     position: relative;
